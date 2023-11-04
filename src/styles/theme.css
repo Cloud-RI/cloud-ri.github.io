@@ -9,28 +9,46 @@
     color: #020202;
   }
 
-
-  .home h2{
-    font-size: 48px;
+  .home {
     text-align:center;
+  }
+
+  .content {
+    text-align:left;
+  }
+
+
+  h1{
+    font-size: 48px;
     padding:40px;
   }
 
-  .home p{
+  h2{
+    font-size: 36px;
+    padding:20px 20px 20px 40px;
+  }
+
+  h4{
+    padding: 0px 20px 0px 0px;
+  }
+
+  ul{
+    list-style-type: disc;
+    padding: 0px 0px 0px 80px;
+  }
+
+
+  p{
     font-size: 18px;
-    text-align:center;
     padding:10px 60px 10px 60px;
   }
 
 
   footer{
+    text-align: right;
     padding: 200px 0px 40px 0px;
   }
 
-  footer h4{
-    text-align: right;
-    padding: 0px 20px 0px 0px;
-  }
 
   a{
     color:navy;

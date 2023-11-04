@@ -1,4 +1,4 @@
-## Cloud RI
+# Cloud RI
 
 Cloud RI is a passionate group connecting, presenting and networking around cloud technology. Discussing the latest trends, sharing experiences and talking about cloud.
 

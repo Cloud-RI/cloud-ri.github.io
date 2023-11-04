@@ -1,0 +1,25 @@
+<html>
+    <head>
+    <title>My Personal Website</title>
+
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css2?family=Roboto&display=swap">
+    <link rel="stylesheet" href="/styles/theme.css"> 
+
+    <script type="module" src="/components/header.js"></script>
+    <script type="module" src="/components/footer.js"></script>
+  </head>
+  <body>
+    <app-header></app-header>
+
+    <div class="home">
+        <page-outlet></page-outlet>
+    </div>
+
+    <app-footer></app-footer>
+  </body>
+</html>

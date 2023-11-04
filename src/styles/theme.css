@@ -1,0 +1,37 @@
+/* theme.css */
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: 'Roboto';
+    color: #020202;
+  }
+
+
+  .home h2{
+    font-size: 48px;
+    text-align:center;
+    padding:40px;
+  }
+
+  .home p{
+    font-size: 18px;
+    text-align:center;
+    padding:10px 60px 10px 60px;
+  }
+
+
+  footer{
+    padding: 200px 0px 40px 0px;
+  }
+
+  footer h4{
+    text-align: right;
+    padding: 0px 20px 0px 0px;
+  }
+
+  a{
+    color:navy;
+  }

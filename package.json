@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "greenwood build",
-    "start": "greenwood develop",
-    "package": "cd public && zip -r gh-pages.zip * && cd .. && mv public/gh-pages.zip ."
+    "start": "greenwood develop"
   },
   "author": "",
   "license": "ISC",

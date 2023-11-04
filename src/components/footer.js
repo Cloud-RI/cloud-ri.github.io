@@ -11,7 +11,8 @@ class FooterComponent extends HTMLElement {
       return `
   
         <footer>
-          <h4>Cloud RI &copy;${year} | Powered by <a href="https://www.greenwoodjs.io">greenwoodjs</a></h4>
+          <h4>Cloud RI &copy;${year} | 
+          Powered by <a href="https://www.greenwoodjs.io"><img class="h-5 inline" src="https://www.greenwoodjs.io/assets/greenwood-logo-og.png" /> greenwoodjs</a></h4>
         </footer>
       `;
     }

@@ -10,4 +10,4 @@
 ## Development
 - `npm start` - Starts a local development server
 - `npm run build` - Creates a production build
-- `npm run serve` - Runs the build task and starts up a local preview server at `localhost:8000`
+- `npm run serve` - Runs the build task and starts up a local preview server at `localhost:8080`

@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "build": "greenwood build",
-    "start": "greenwood develop"
+    "start": "greenwood develop",
+    "serve": "npm run build && greenwood serve"
   },
   "author": "",
   "license": "ISC",

@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@greenwood/cli": "^0.28.5"
+    "@greenwood/cli": "^0.29.0"
   }
 }

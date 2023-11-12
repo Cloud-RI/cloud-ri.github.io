@@ -49,6 +49,10 @@
     padding: 200px 0px 40px 0px;
   }
 
+  footer img#greenwood{
+    width: 20px;
+    height: 20px;
+  }
 
   a{
     color:navy;

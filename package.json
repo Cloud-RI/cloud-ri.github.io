@@ -12,6 +12,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@greenwood/cli": "^0.29.0"
+    "@greenwood/cli": "^0.29.0",
+    "@greenwood/plugin-postcss": "~0.29.0",
+    "autoprefixer": "^10.4.14",
+    "tailwindcss": "^3.3.2"
   }
 }

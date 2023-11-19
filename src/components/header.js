@@ -18,8 +18,9 @@ export default class HeaderComponent extends HTMLElement {
               </a>
             </div>
             <nav class="space-x-1 pt-5">
-              <a href="/content/code-of-conduct/" class="py-4 px-2 text-gray-500 hover:text-green-500 transition duration-300">Code of Conduct</a>
-              <a href="/content/join/" class="py-4 px-2 text-gray-500 hover:text-green-500 transition duration-300">Join</a>
+            <a href="/content/archive/" class="py-4 px-2 text-gray-500 hover:text-green-500 transition duration-300">Archive</a>
+            <a href="/content/code-of-conduct/" class="py-4 px-2 text-gray-500 hover:text-green-500 transition duration-300">Code of Conduct</a>
+            <a href="/content/join/" class="py-4 px-2 text-gray-500 hover:text-green-500 transition duration-300">Join</a>  
             </nav>
           </div>
         </div>

@@ -5,5 +5,6 @@ export default {
     greenwoodPluginPostCss({
       extendConfig: true
     })
-  ]
+  ],
+  prerender: true
 };

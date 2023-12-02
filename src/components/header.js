@@ -18,10 +18,15 @@ export default class HeaderComponent extends HTMLElement {
               </a>
             </div>
             <nav class="space-x-1 pt-5">
+              <a href="/content/archive/" class="py-4 px-2 text-gray-500 hover:text-green-500 transition duration-300">Archive</a>
               <a href="/content/code-of-conduct/" class="py-4 px-2 text-gray-500 hover:text-green-500 transition duration-300">Code of Conduct</a>
-              <a href="/content/join/" class="py-4 px-2 text-gray-500 hover:text-green-500 transition duration-300">Join</a>
+              <a href="/content/join/" class="py-4 px-2 text-gray-500 hover:text-green-500 transition duration-300">Join</a>  
             </nav>
           </div>
+          <div class="space-x-1 pt-5 flex justify-end">
+              <a class="mr-2" href="https://www.linkedin.com/groups/12899954/"><img style="width:25px;height:25px" src="/assets/LinkedIn_icon.svg" alt="Cloud RI LinkedIn Group" /></a>
+              <a href="https://www.meetup.com/cloudri/"><img style="width:25px;height:25px" src="/assets/Meetup_icon.svg" alt="Cloud RI Meetup Group" /></a>
+            </div>
         </div>
       </div>
     </header>

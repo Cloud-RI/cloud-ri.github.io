@@ -47,15 +47,14 @@ threatening, offensive, or harmful.
 This Code of Conduct applies both within events and in public spaces such as social media when an individual is representing the meetup. Examples of
 representing the meetup include using an official meetup e-mail
 address, posting via an official social media account, or acting as an appointed
-representative at an online or offline event. Representation of Karlsruhe JS may be
-further defined and clarified by project maintainers.
+representative at an online or offline event. Representation of the meetup may be further defined and clarified by project maintainers.
 
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the Karlsruhe JS team. All
+reported by contacting the meetup team. All
 complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances. The Karlsruhe JS team is
+is deemed necessary and appropriate to the circumstances. The meetup team is
 obligated to maintain confidentiality with regard to the reporter of an incident.
 Further details of specific enforcement policies may be posted separately.
 

@@ -39,13 +39,13 @@ behavior and are expected to take appropriate and fair corrective action in
 response to any instances of unacceptable behavior.
 
 Meetup organizers have the right and responsibility to to ban temporarily or
-permanently any Karlsruhe JS attendee for other behaviors that they deem inappropriate,
+permanently any attendee for other behaviors that they deem inappropriate,
 threatening, offensive, or harmful.
 
 ## Scope
 
-This Code of Conduct applies both within Karlsruhe JS events and in public spaces such as social media when an individual is representing the Karlsruhe JS meetup. Examples of
-representing Karlsruhe JS include using an official meetup e-mail
+This Code of Conduct applies both within events and in public spaces such as social media when an individual is representing the meetup. Examples of
+representing the meetup include using an official meetup e-mail
 address, posting via an official social media account, or acting as an appointed
 representative at an online or offline event. Representation of Karlsruhe JS may be
 further defined and clarified by project maintainers.

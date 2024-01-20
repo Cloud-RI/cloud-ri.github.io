@@ -24,8 +24,8 @@ export default class HeaderComponent extends HTMLElement {
             </nav>
           </div>
           <div class="space-x-3 pt-5 flex justify-end">
-              <a href="https://github.com/Cloud-RI/"><img style="width:25px;height:25px" src="/assets/github-logo.png" alt="Cloud RI Github" /></a>
-              <a href="https://www.linkedin.com/groups/12899954/"><img style="width:25px;height:25px" src="/assets/LinkedIn_icon.svg" alt="Cloud RI LinkedIn Group" /></a>
+              <a class="mr-2" href="https://github.com/Cloud-RI/"><img style="width:25px;height:25px" src="/assets/github-logo.png" alt="Cloud RI Github" /></a>
+              <a class="mr-2" href="https://www.linkedin.com/groups/12899954/"><img style="width:25px;height:25px" src="/assets/LinkedIn_icon.svg" alt="Cloud RI LinkedIn Group" /></a>
               <a href="https://www.meetup.com/cloudri/"><img style="width:25px;height:25px" src="/assets/Meetup_icon.svg" alt="Cloud RI Meetup Group" /></a>
             </div>
         </div>

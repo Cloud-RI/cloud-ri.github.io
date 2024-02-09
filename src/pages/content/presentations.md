@@ -7,7 +7,7 @@ template: 'content'
 ## Simplify your Analytics with DuckDB
 
 * Presenter:  Mathew Mathew - [LinkedIn](https://www.linkedin.com/in/mathewma/)
-* Date:   Feb 27, 2024 - 5:30pm
+* Date:   Feb 28, 2024 - 5:30pm
 
 Ready to quack like a pro about DuckDB? Join us for an exciting deep dive into this powerful, in-process SQL database! Whether you're a curious newcomer or a seasoned data wrangler, this presentation has something for everyone.
 

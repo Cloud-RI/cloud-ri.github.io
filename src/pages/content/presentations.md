@@ -29,10 +29,9 @@ Whether you're a security-conscious developer or just starting your journey, thi
 
 
 // ------------------ Schedule ------------------
-12:00pm - Introduction and demo
-1:00pm - Live coding exercise and Q/A
-1:30pm - Closing remarks
-// ----------------------------------------------
+* 12:00pm - Introduction and demo
+* 1:00pm - Live coding exercise and Q/A
+* 1:30pm - Closing remarks
 
 
 # Archives

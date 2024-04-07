@@ -7,7 +7,7 @@ template: 'content'
 ## OWASP Vulnerabilities: Code Reviews with AI and Open Source!
 
 * Presenter:  Ricardo Garcia - [LinkedIn](https://www.linkedin.com/in/ricardo-garcia-quiroz/)
-* Date:   Apr 2, 2024
+* Date:   Apr 16, 2024
 
 
 Ready to elevate your code reviews and become a security champion? Join us for this interactive meetup and discover how to leverage cutting-edge AI-powered tools and open-source solutions to scrutinize your code for the OWASP Top 10 vulnerabilities. 

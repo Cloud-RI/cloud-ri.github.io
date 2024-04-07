@@ -8,6 +8,7 @@ template: 'content'
 
 * Presenter:  Ricardo Garcia - [LinkedIn](https://www.linkedin.com/in/ricardo-garcia-quiroz/)
 * Date:   Apr 16, 2024
+* Event Details: https://www.meetup.com/cloudri/events/300268053/
 
 
 Ready to elevate your code reviews and become a security champion? Join us for this interactive meetup and discover how to leverage cutting-edge AI-powered tools and open-source solutions to scrutinize your code for the OWASP Top 10 vulnerabilities. 

@@ -4,6 +4,39 @@ template: 'content'
 
 # Upcoming
 
+## Pointz: Developing a Game-Changing Bike Safety App
+
+* Presenter:   Maggie Bachenberg - [LinkedIn](https://www.linkedin.com/in/maggiebachenberg/)
+* Date:   Jun 5, 2024
+* Event Details: https://www.meetup.com/cloudri/events/301185076/
+
+
+### The presentation will cover:
+
+Pointz is a bike safety app, available on the App Store and Google Play, that offers services that help people feel confident on their bikes. Features include safer customized routing, 24/7 emergency roadside assistance, and bike maintenance tracking. To provide safer routing, roads are rated on a 1-5 bike friendliness scale based on traffic and infrastructure. Riders can search for routes and customzie them with the safety slider and elevation, shortcuts, and surface toggles. Similar to Waze, people crowdsource additional information like road closures, surface issues, and tricky intersections. 
+
+Join Maggie as she tells the story of how she came up with the idea and what work she did to prepare for building the application.  She will dive into the customer discovery work, which frameworks were used, and what worked and what didn’t.  
+
+The presentation will also cover testing different business models, interpreting the results and why freemium was the right choice (at least for now).
+
+There will be an after the meetup ride to a local restaurant for a snack and drink for those interested.
+
+
+### This meetup is perfect for:
+
+Anyone interested in product development, marketing, user acquisition, or data analysis would benefit from attending this talk. The focus on customer discovery, business models, and the freemium model selection process offers valuable insights applicable across many SaaS companies.
+
+
+// ------------------ Schedule ------------------
+* Schedule
+* 5:30pm - Doors open for everyone
+* 6:00pm - Presentation and demo
+* 6:35 pm - Q/A and discussion
+* 7:00pm - Closing remarks, safely ride to nearby restaurant 
+
+
+# Archives
+
 ## OWASP Vulnerabilities: Code Reviews with AI and Open Source!
 
 * Presenter:  Ricardo Garcia - [LinkedIn](https://www.linkedin.com/in/ricardo-garcia-quiroz/)
@@ -28,14 +61,6 @@ Whether you're a security-conscious developer or just starting your journey, thi
 * Writing cleaner, more secure code: Apply best practices and leverage AI-powered insights.
 * Becoming an OWASP expert: Deepen your understanding of the OWASP Top 10 and their impact on code.
 
-
-// ------------------ Schedule ------------------
-* 12:00pm - Introduction and demo
-* 1:00pm - Live coding exercise and Q/A
-* 1:30pm - Closing remarks
-
-
-# Archives
 
 ## Simplify your Analytics with DuckDB
 

@@ -24,12 +24,17 @@
 
   h1{
     font-size: 48px;
-    padding:40px;
+    padding:20px 40px 20px 40px;
   }
 
   h2{
     font-size: 36px;
-    padding:20px 20px 20px 40px;
+    padding:16px 100px 16px 40px;
+  }
+
+  h3{
+    font-size: 24px;
+    padding:10px 40px 10px 40px;
   }
 
   h4{

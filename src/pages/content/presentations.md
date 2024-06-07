@@ -2,16 +2,46 @@
 template: 'content'
 ---
 
+
 # Upcoming
+
+## Platform Health: A team model of platform evolution
+
+
+* Presenter:  Jeff Brainerd - [LinkedIn](https://www.linkedin.com/in/jeff-brainerd/); Dave Stenglein - [LinkedIn](https://www.linkedin.com/in/davidstenglein/)
+* Date:   Jul 23, 2024
+* Event Details:  [Meetup](https://www.meetup.com/cloudri/events/301495606/)
+
+
+### The presentation will cover:
+
+Jeff Brainerd will speak about a team model of platform evolution. He will discuss the importance of maintaining platform health through a team-based approach, emphasizing collaboration, continuous improvement, and shared responsibility among team members. 
+
+Jeff explores strategies for effective platform management and how to ensure long-term stability and scalability. He highlights the role of communication, monitoring, and proactive maintenance in evolving and sustaining platform health.
+
+
+### This meetup is perfect for:
+DevOps and software engineering professionals interested in platform management, team dynamics, and platform strategies.  
+
+Technology leaders interested in CI/CD, platform reliability, and team collaboration, focusing on long-term sustainability and evolution of technical platforms.
+
+
+// ------------------ Schedule ------------------
+
+* 5:30pm - Doors open for everyone
+* 6:00pm - Presentation and demo
+* 6:35 pm - Q/A and discussion
+* 7:00pm - Closing remarks, safely ride to nearby restaurant 
+
+
+
+# Archives
 
 ## Pointz: Developing a Game-Changing Bike Safety App
 
 * Presenter:   Maggie Bachenberg - [LinkedIn](https://www.linkedin.com/in/maggiebachenberg/)
 * Date:   Jun 5, 2024
-* Event Details: https://www.meetup.com/cloudri/events/301185076/
-
-
-### The presentation will cover:
+* Event Details: [Meetup](https://www.meetup.com/cloudri/events/301185076/)
 
 Pointz is a bike safety app, available on the App Store and Google Play, that offers services that help people feel confident on their bikes. Features include safer customized routing, 24/7 emergency roadside assistance, and bike maintenance tracking. To provide safer routing, roads are rated on a 1-5 bike friendliness scale based on traffic and infrastructure. Riders can search for routes and customzie them with the safety slider and elevation, shortcuts, and surface toggles. Similar to Waze, people crowdsource additional information like road closures, surface issues, and tricky intersections. 
 
@@ -21,21 +51,6 @@ The presentation will also cover testing different business models, interpreting
 
 There will be an after the meetup ride to a local restaurant for a snack and drink for those interested.
 
-
-### This meetup is perfect for:
-
-Anyone interested in product development, marketing, user acquisition, or data analysis would benefit from attending this talk. The focus on customer discovery, business models, and the freemium model selection process offers valuable insights applicable across many SaaS companies.
-
-
-// ------------------ Schedule ------------------
-* Schedule
-* 5:30pm - Doors open for everyone
-* 6:00pm - Presentation and demo
-* 6:35 pm - Q/A and discussion
-* 7:00pm - Closing remarks, safely ride to nearby restaurant 
-
-
-# Archives
 
 ## OWASP Vulnerabilities: Code Reviews with AI and Open Source!
 

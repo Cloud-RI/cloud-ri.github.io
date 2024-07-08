@@ -2,7 +2,7 @@
 template: 'content'
 ---
 
-# Upcoming
+# Archives
 
 ## Pointz: Developing a Game-Changing Bike Safety App
 
@@ -26,16 +26,6 @@ There will be an after the meetup ride to a local restaurant for a snack and dri
 
 Anyone interested in product development, marketing, user acquisition, or data analysis would benefit from attending this talk. The focus on customer discovery, business models, and the freemium model selection process offers valuable insights applicable across many SaaS companies.
 
-
-// ------------------ Schedule ------------------
-* Schedule
-* 5:30pm - Doors open for everyone
-* 6:00pm - Presentation and demo
-* 6:35 pm - Q/A and discussion
-* 7:00pm - Closing remarks, safely ride to nearby restaurant 
-
-
-# Archives
 
 ## OWASP Vulnerabilities: Code Reviews with AI and Open Source!
 

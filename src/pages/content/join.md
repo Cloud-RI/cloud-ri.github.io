@@ -2,7 +2,7 @@
 template: 'content'
 ---
 
-## Who should join?
+# Who should join?
 
 You are welcome to join the CloudRI community if you are meaningfully connected to both the Rhode Island community.
 

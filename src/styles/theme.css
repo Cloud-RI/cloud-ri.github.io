@@ -3,66 +3,65 @@
 @tailwind components;
 @tailwind utilities;
 
-* {
-    margin: 0;
-    padding: 0;
-  }
-  
-  body {
-    font-family: 'Roboto';
-    color: #020202;
+@layer base {
+  body{
+    @apply bg-base text-text;
   }
 
-  .home {
-    text-align:center;
+  h1 {
+    @apply text-5xl mx-2 mt-10 mb-2;
   }
 
-  .content {
-    text-align:left;
+  h2 {
+    @apply text-3xl mx-2 mt-10 mb-2;
   }
 
-
-  h1{
-    font-size: 48px;
-    padding:20px 40px 20px 40px;
+  h3 {
+    @apply text-xl mx-2 my-4;
   }
 
-  h2{
-    font-size: 36px;
-    padding:16px 100px 16px 40px;
-  }
-
-  h3{
-    font-size: 24px;
-    padding:10px 40px 10px 40px;
-  }
-
-  h4{
-    padding: 0px 20px 0px 0px;
+  h4 {
+    @apply text-lg mx-2 my-4;
   }
 
   ul{
-    list-style-type: disc;
-    padding: 0px 0px 0px 80px;
+    @apply list-disc ml-8;
   }
-
 
   p{
-    font-size: 18px;
-    padding:10px 60px 10px 60px;
-  }
-
-
-  footer{
-    text-align: right;
-    padding: 200px 0px 40px 0px;
-  }
-
-  footer img#greenwood{
-    width: 20px;
-    height: 20px;
+    @apply mx-2 my-4;
   }
 
   a{
-    color:navy;
+    @apply text-link hover:text-link-hover;
   }
+
+  header{
+    @apply bg-header shadow-lg;
+  }
+  
+  header a{
+    @apply text-link-hover hover:text-link;
+  }
+
+  header img{
+    @apply w-5 h-5;
+  }
+  
+  .home{
+    @apply text-center lg:px-48 pb-32;
+  }
+
+  footer{
+    @apply text-right;
+  }
+
+  footer img#greenwood{
+    @apply w-5 h-5;
+  }
+
+  .content{
+    @apply text-left;
+  }
+
+}
